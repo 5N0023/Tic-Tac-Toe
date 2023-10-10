@@ -1,2 +1,4 @@
-# Tic-Tac-Toe
-My first next js sample project
+**to run the project**
+``` bash
+    $ npm run dev
+```
